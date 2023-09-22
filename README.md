@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 - ###### Results
 
-  ![AVE](figs\AVE.png)
+  ![AVE](figs/AVE.png)
 
 ## AVS
 
@@ -108,7 +108,7 @@ pip install -r requirements.txt
 
 - ###### Results
 
-  ![AVS](figs\AVS.png)
+  ![AVS](figs/AVS.png)
 
 ## AVVP
 
@@ -140,7 +140,7 @@ pip install -r requirements.txt
 
 - ###### Results
 
-  ![AVVP](figs\AVVP.png)
+  ![AVVP](figs/AVVP.png)
 
 ## AVQA
 
@@ -180,7 +180,7 @@ pip install -r requirements.txt
 
 - ###### Results
 
-  ![AVQA](figs\AVQA.png)
+  ![AVQA](figs/AVQA.png)
 
 ## Few-shot/Zero-shot
 
@@ -323,7 +323,7 @@ We use audio-text backbones in [CLAP](https://github.com/LAION-AI/CLAP/): [630k-
 
 - ### Results
 
-![few-zero](figs\few-zero.png)
+![few-zero](figs/few-zero.png)
 
 
 
