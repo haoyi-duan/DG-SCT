@@ -2,7 +2,7 @@
 
 
 
-![model](figs\model.png)
+![model](figs/model.png)
 
 This is the Pytorch implementation of our paper:
 
