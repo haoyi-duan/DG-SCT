@@ -8,7 +8,7 @@ This is the Pytorch implementation of our paper:
 
 Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks
 
-[Haoyi Duan](https://openreview.net/profile?id=~Haoyi_Duan1), [Yan Xia](https://openreview.net/profile?id=~Yan_Xia4), [Mingze Zhou](https://openreview.net/profile?id=~Mingze_Zhou1), [Li Tang](https://openreview.net/profile?id=~Li_Tang3), [Jieming Zhu](https://openreview.net/profile?id=~Jieming_Zhu2), [Zhou Zhao](https://openreview.net/profile?id=~Zhou_Zhao2)
+[Haoyi Duan](https://haoyi-duan.github.io/), [Yan Xia](https://scholar.google.com/citations?user=6kEbV3IAAAAJ&hl=en), [Mingze Zhou](https://github.com/Themoonlightoflibai), [Li Tang](https://scholar.google.com.hk/citations?hl=en&user=PsHyxDcAAAAJ), [Jieming Zhu](https://scholar.google.com/citations?user=oNKerP8AAAAJ), [Zhou Zhao](https://scholar.google.com.hk/citations?user=IIoFY90AAAAJ)
 
 In NeurIPS 2023
 
