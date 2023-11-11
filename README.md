@@ -8,7 +8,7 @@ This is the Pytorch implementation of our paper:
 
 [Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks](https://openreview.net/forum?id=9MwidIH4ea)
 
-[[PDF](https://openreview.net/pdf?id=9MwidIH4ea)] [[Arxiv](https://arxiv.org/abs/2311.05152)] [[Video](https://recorder-v3.slideslive.com/#/share?share=85773&s=88f00392-b03f-497a-b0c8-1441cc471e50)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72602.png?t=1699521476.3931298)] [[Slides](https://neurips.cc/media/neurips-2023/Slides/72602.pdf)]
+[[Paper](https://openreview.net/pdf?id=9MwidIH4ea)] [[arXiv](https://arxiv.org/abs/2311.05152)] [[Video](https://recorder-v3.slideslive.com/#/share?share=85773&s=88f00392-b03f-497a-b0c8-1441cc471e50)] [[Poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72602.png?t=1699521476.3931298)] [[Slides](https://neurips.cc/media/neurips-2023/Slides/72602.pdf)]
 
 [Haoyi Duan](https://haoyi-duan.github.io/), [Yan Xia](https://scholar.google.com/citations?user=6kEbV3IAAAAJ&hl=en), [Mingze Zhou](https://github.com/Themoonlightoflibai), [Li Tang](https://scholar.google.com.hk/citations?hl=en&user=PsHyxDcAAAAJ), [Jieming Zhu](https://scholar.google.com/citations?user=oNKerP8AAAAJ), [Zhou Zhao](https://scholar.google.com.hk/citations?user=IIoFY90AAAAJ)
 
