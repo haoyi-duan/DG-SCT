@@ -14,7 +14,6 @@ from ipdb import set_trace
 from torchvision.transforms import Compose, Resize, CenterCrop, ToTensor, Normalize
 from einops import rearrange, repeat
 
-from timm.data import IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD
 import torchvision
 import torchaudio
 import glob
@@ -22,6 +21,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 import sys 
+IMAGENET_DEFAULT_MEAN, IMAGENET_DEFAULT_STD = (0.485, 0.456, 0.406), (0.229, 0.224, 0.225)
 
 def ids_to_multinomial(id, categories):
 	""" label encoding
